@@ -1,0 +1,84 @@
+C:\Users\QUANG PHUC\Desktop\CSharp\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.UserControl1.resources
+C:\Users\QUANG PHUC\Desktop\CSharp\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.csproj.GenerateResource.cache
+C:\Users\QUANG PHUC\Desktop\CSharp\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QUANG PHUC\Desktop\CSharp\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.AssemblyInfoInputs.cache
+C:\Users\QUANG PHUC\Desktop\CSharp\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.AssemblyInfo.cs
+C:\Users\QUANG PHUC\Desktop\CSharp\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.csproj.CoreCompileInputs.cache
+C:\Users\QUANG PHUC\Desktop\CSharp\Digital_Identifier\WinForm\bin\Debug\net8.0-windows\WinForm.exe
+C:\Users\QUANG PHUC\Desktop\CSharp\Digital_Identifier\WinForm\bin\Debug\net8.0-windows\WinForm.deps.json
+C:\Users\QUANG PHUC\Desktop\CSharp\Digital_Identifier\WinForm\bin\Debug\net8.0-windows\WinForm.runtimeconfig.json
+C:\Users\QUANG PHUC\Desktop\CSharp\Digital_Identifier\WinForm\bin\Debug\net8.0-windows\WinForm.dll
+C:\Users\QUANG PHUC\Desktop\CSharp\Digital_Identifier\WinForm\bin\Debug\net8.0-windows\WinForm.pdb
+C:\Users\QUANG PHUC\Desktop\CSharp\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.dll
+C:\Users\QUANG PHUC\Desktop\CSharp\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\refint\WinForm.dll
+C:\Users\QUANG PHUC\Desktop\CSharp\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.pdb
+C:\Users\QUANG PHUC\Desktop\CSharp\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.genruntimeconfig.cache
+C:\Users\QUANG PHUC\Desktop\CSharp\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\ref\WinForm.dll
+C:\Users\QUANG PHUC\Desktop\CSharp\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.Properties.Resources.resources
+C:\Users\QUANG PHUC\Desktop\CSharp\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.Form1.resources
+C:\Users\QUANG PHUC\Desktop\CSharp\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.User.resources
+C:\Users\QUANG PHUC\Desktop\Digital_Identifier\WinForm\bin\Debug\net8.0-windows\WinForm.exe
+C:\Users\QUANG PHUC\Desktop\Digital_Identifier\WinForm\bin\Debug\net8.0-windows\WinForm.deps.json
+C:\Users\QUANG PHUC\Desktop\Digital_Identifier\WinForm\bin\Debug\net8.0-windows\WinForm.runtimeconfig.json
+C:\Users\QUANG PHUC\Desktop\Digital_Identifier\WinForm\bin\Debug\net8.0-windows\WinForm.dll
+C:\Users\QUANG PHUC\Desktop\Digital_Identifier\WinForm\bin\Debug\net8.0-windows\WinForm.pdb
+C:\Users\QUANG PHUC\Desktop\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.Form1.resources
+C:\Users\QUANG PHUC\Desktop\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.Properties.Resources.resources
+C:\Users\QUANG PHUC\Desktop\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.User.resources
+C:\Users\QUANG PHUC\Desktop\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.UserControl1.resources
+C:\Users\QUANG PHUC\Desktop\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.csproj.GenerateResource.cache
+C:\Users\QUANG PHUC\Desktop\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QUANG PHUC\Desktop\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.AssemblyInfoInputs.cache
+C:\Users\QUANG PHUC\Desktop\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.AssemblyInfo.cs
+C:\Users\QUANG PHUC\Desktop\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.csproj.CoreCompileInputs.cache
+C:\Users\QUANG PHUC\Desktop\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.dll
+C:\Users\QUANG PHUC\Desktop\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\refint\WinForm.dll
+C:\Users\QUANG PHUC\Desktop\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.pdb
+C:\Users\QUANG PHUC\Desktop\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.genruntimeconfig.cache
+C:\Users\QUANG PHUC\Desktop\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\ref\WinForm.dll
+C:\Users\QUANG PHUC\Desktop\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.License.resources
+C:\Users\QUANG PHUC\Desktop\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.Insurance.resources
+C:\Users\QUANG PHUC\Desktop\UEH\Digital_Identifier\WinForm\bin\Debug\net8.0-windows\WinForm.exe
+C:\Users\QUANG PHUC\Desktop\UEH\Digital_Identifier\WinForm\bin\Debug\net8.0-windows\WinForm.deps.json
+C:\Users\QUANG PHUC\Desktop\UEH\Digital_Identifier\WinForm\bin\Debug\net8.0-windows\WinForm.runtimeconfig.json
+C:\Users\QUANG PHUC\Desktop\UEH\Digital_Identifier\WinForm\bin\Debug\net8.0-windows\WinForm.dll
+C:\Users\QUANG PHUC\Desktop\UEH\Digital_Identifier\WinForm\bin\Debug\net8.0-windows\WinForm.pdb
+C:\Users\QUANG PHUC\Desktop\UEH\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.Insurance.resources
+C:\Users\QUANG PHUC\Desktop\UEH\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.License.resources
+C:\Users\QUANG PHUC\Desktop\UEH\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.Login.resources
+C:\Users\QUANG PHUC\Desktop\UEH\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.Properties.Resources.resources
+C:\Users\QUANG PHUC\Desktop\UEH\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.User.resources
+C:\Users\QUANG PHUC\Desktop\UEH\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.UserControl1.resources
+C:\Users\QUANG PHUC\Desktop\UEH\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.csproj.GenerateResource.cache
+C:\Users\QUANG PHUC\Desktop\UEH\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QUANG PHUC\Desktop\UEH\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.AssemblyInfoInputs.cache
+C:\Users\QUANG PHUC\Desktop\UEH\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.AssemblyInfo.cs
+C:\Users\QUANG PHUC\Desktop\UEH\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.csproj.CoreCompileInputs.cache
+C:\Users\QUANG PHUC\Desktop\UEH\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.dll
+C:\Users\QUANG PHUC\Desktop\UEH\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\refint\WinForm.dll
+C:\Users\QUANG PHUC\Desktop\UEH\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.pdb
+C:\Users\QUANG PHUC\Desktop\UEH\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.genruntimeconfig.cache
+C:\Users\QUANG PHUC\Desktop\UEH\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\ref\WinForm.dll
+C:\Users\QUANG PHUC\Desktop\UEH\Data Structure and Algorithm\Digital_Identifier\WinForm\bin\Debug\net8.0-windows\WinForm.exe
+C:\Users\QUANG PHUC\Desktop\UEH\Data Structure and Algorithm\Digital_Identifier\WinForm\bin\Debug\net8.0-windows\WinForm.deps.json
+C:\Users\QUANG PHUC\Desktop\UEH\Data Structure and Algorithm\Digital_Identifier\WinForm\bin\Debug\net8.0-windows\WinForm.runtimeconfig.json
+C:\Users\QUANG PHUC\Desktop\UEH\Data Structure and Algorithm\Digital_Identifier\WinForm\bin\Debug\net8.0-windows\WinForm.dll
+C:\Users\QUANG PHUC\Desktop\UEH\Data Structure and Algorithm\Digital_Identifier\WinForm\bin\Debug\net8.0-windows\WinForm.pdb
+C:\Users\QUANG PHUC\Desktop\UEH\Data Structure and Algorithm\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.Insurance.resources
+C:\Users\QUANG PHUC\Desktop\UEH\Data Structure and Algorithm\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.License.resources
+C:\Users\QUANG PHUC\Desktop\UEH\Data Structure and Algorithm\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.Login.resources
+C:\Users\QUANG PHUC\Desktop\UEH\Data Structure and Algorithm\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.Properties.Resources.resources
+C:\Users\QUANG PHUC\Desktop\UEH\Data Structure and Algorithm\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.User.resources
+C:\Users\QUANG PHUC\Desktop\UEH\Data Structure and Algorithm\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.UserControl1.resources
+C:\Users\QUANG PHUC\Desktop\UEH\Data Structure and Algorithm\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.csproj.GenerateResource.cache
+C:\Users\QUANG PHUC\Desktop\UEH\Data Structure and Algorithm\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QUANG PHUC\Desktop\UEH\Data Structure and Algorithm\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.AssemblyInfoInputs.cache
+C:\Users\QUANG PHUC\Desktop\UEH\Data Structure and Algorithm\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.AssemblyInfo.cs
+C:\Users\QUANG PHUC\Desktop\UEH\Data Structure and Algorithm\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.csproj.CoreCompileInputs.cache
+C:\Users\QUANG PHUC\Desktop\UEH\Data Structure and Algorithm\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.dll
+C:\Users\QUANG PHUC\Desktop\UEH\Data Structure and Algorithm\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\refint\WinForm.dll
+C:\Users\QUANG PHUC\Desktop\UEH\Data Structure and Algorithm\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.pdb
+C:\Users\QUANG PHUC\Desktop\UEH\Data Structure and Algorithm\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.genruntimeconfig.cache
+C:\Users\QUANG PHUC\Desktop\UEH\Data Structure and Algorithm\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\ref\WinForm.dll
+C:\Users\QUANG PHUC\Desktop\UEH\Data Structure and Algorithm\Digital_Identifier\WinForm\bin\Debug\net8.0-windows\Login.cs
+C:\Users\QUANG PHUC\Desktop\UEH\Data Structure and Algorithm\Digital_Identifier\WinForm\obj\Debug\net8.0-windows\WinForm.Update.resources
